@@ -1,1 +1,1 @@
-# Python-Pal
+PythonPal is an interactive platform for aspiring programmers to enhance their coding skills. It features engaging coding challenges, curated learning resources, and a user-friendly login system. Tailored for internship seekers, PythonPal enables self-paced learning, helping users master programming concepts effectively and achieve their career goals in the tech industry
